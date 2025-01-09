@@ -1,0 +1,7 @@
+com\wrx\pojo\Result.class
+com\wrx\service\impl\DeptServiceImpl.class
+com\wrx\TliasWebManagementApplication.class
+com\wrx\pojo\Dept.class
+com\wrx\controller\DeptController.class
+com\wrx\service\DeptService.class
+com\wrx\mapper\DeptMapper.class
